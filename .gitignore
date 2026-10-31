@@ -1,0 +1,7 @@
+.env
+data/ecommerce.db
+data/ecommerce.db-shm
+data/ecommerce.db-wal
+__pycache__/
+.venv/
+
